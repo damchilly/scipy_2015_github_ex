@@ -1,0 +1,5 @@
+water
+food
+solar cells
+camera
+glasses
